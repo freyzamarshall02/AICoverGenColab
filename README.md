@@ -1,6 +1,6 @@
 # AICoverGen Colab
 ## AI CoverGen Modified Colab by Ryusui Kagaku
-[https://github.com/w-okada/voice-changer](https://github.com/ardha27/AICoverGen-Mod)
+(https://github.com/ardha27/AICoverGen-Mod)
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/freyzamarshall02/AICoverGenColab/blob/main/AICoverGen.ipynb)
 
